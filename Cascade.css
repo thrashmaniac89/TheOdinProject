@@ -1,0 +1,128 @@
+body, html{
+  font-size: small;
+}
+
+body{
+  background: #fff;
+  color:#222;
+}
+
+.content{
+position:absolute; right: 580px; top:200px;
+  padding-bottom: 100px;
+}
+
+#box {
+  background-color:url(data:image/gif;base64,R0lGODlhAQABAID/AMDAwAAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw%3D%3D);
+  position: absolute; top: 110px; right: -160px;
+  width: 220%; height: 25px;
+  
+}
+
+#L_list{
+  text-align: left;
+  position:relative; top: -3px;
+}
+
+.R_list{
+  text-align: right;
+  position:relative; top: 458px; right:15px;
+}
+
+
+
+#google{
+  width:250px;
+  height:auto;
+}
+
+#search, #lucky {
+  position: absolute;
+}
+
+#search {
+  top : 150px; right: 125px;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-color:#f5f5f5;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius:2px;
+  color: #666;
+  font-family: arial;
+  font-size:11px;
+  font-weight:bold;
+  height:29px;
+  line-height: 27px;
+  margin: 11px 6px;
+  padding: 0 8px;
+  text-align: center;
+}
+
+.navigation{
+  position:relative; right: -940px; top:-10px;
+  
+}
+
+#BottomBar{
+position: relative; top: 503px; left: -9px;
+ border: 3px solid black;
+ width:1348px;
+ height:38px;
+ background-color:#191919;
+ 
+}
+
+li{
+  display: inline;
+  padding: 6px;
+  color: grey;
+  font-size:120%;
+  }
+  
+.apps{
+ width: 30px; height:30px;
+ position:relative; top: 10px;
+}
+
+.notifications {
+  width:30px; height: auto;
+  position:relative; top:7px; right: -7px;
+}
+.user{
+height:30px; width: auto;
+position:relative; top:8px; right: -7px;
+}
+
+#share {
+position: relative; right: -10px; top: -2px;
+   background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-color:#f5f5f5;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius:2px;
+  color: #666;
+  font-family: arial;
+  font-size:11px;
+  font-weight:bold;
+  height:29px;
+  line-height: 27px;
+  margin: 11px 6px;
+  padding: 0 8px;
+  text-align: center;
+}
+
+#lucky {
+  top:150px; right: -5px;
+  background-image: -webkit-linear-gradient(top,#f5f5f5,#f1f1f1);
+  background-color:#f5f5f5;
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius:2px;
+  color: #666;
+  font-family: arial;
+  font-size:11px;
+  font-weight:bold;
+  height:29px;
+  line-height: 27px;
+  margin: 11px 6px;
+  padding: 0 8px;
+  text-align: center;
+}
+
